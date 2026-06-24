@@ -1,5 +1,7 @@
 
+========================================================================
 📸 ATTEND PRO | Next-Gen Biometric Attendance System
+========================================================================
 
 
 An advanced classroom management platform revolutionizing traditional 

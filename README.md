@@ -1,6 +1,6 @@
-========================================================================
+
 📸 ATTEND PRO | Next-Gen Biometric Attendance System
-========================================================================
+
 
 An advanced classroom management platform revolutionizing traditional 
 roll-calls with cutting-edge computer vision and voice biometrics. 
@@ -8,6 +8,7 @@ ATTEND PRO eliminates manual data entry, proxy attendance, and
 administrative headaches by automating the entire roster workflow.
 
 🌐 Live Landing Page: https://attendpro-landing-page.vercel.app/
+
 🚀 Core Application App: https://attendpro-main.streamlit.app/
 
 ------------------------------------------------------------------------
